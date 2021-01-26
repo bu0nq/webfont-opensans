@@ -1,2 +1,1 @@
-# webfont-opensans
- 
+# WebFont OpenSans
